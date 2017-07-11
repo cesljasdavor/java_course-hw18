@@ -1,0 +1,53 @@
+@IMPORT url("https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css");
+
+@IMPORT url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+img {
+	max-width: 100%;
+	max-height: 600;
+}
+
+#jumbotron h1 {
+	color: #0275d8;
+}
+
+#jumbotron {
+	background-image: url('http://cityillustration.com/wp-content/uploads/2014/03/moscow-panorama2.jpg');
+	background-size: cover;
+	height: 600px;
+}
+
+.container {
+	margin-top: 2.5%;
+}
+
+.badge {
+	margin: 3px;
+}
+
+.centered-container {
+	display: table;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: scroll;
+}
+
+body {
+	background-color: #292b2c !important;
+}
+
+.tag {
+	margin: 2px;
+}
+
+hr {
+	background-color: white;
+}
+
+#footer {
+	color: white;
+}
+
+#footer b {
+	color: #0275d8;
+}
